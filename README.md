@@ -11,13 +11,6 @@
 ---
 
 
-## Contact with me:
-
-Email adress: <karolsygiet@gmail.com>
-
----
-
-
 ## Github stats:
 
 <div align="center"> 
