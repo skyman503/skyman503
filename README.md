@@ -4,7 +4,7 @@
 
 - 💻  Main programming languages: Python, C++, JavaScript
 - 💡  I'm a member of the board and head of the IT department at the  Computer Science Students Association KSI UJ
-- 👦 [Portfolio](https://karol-sygiet.ninja/assets/files/karol-sygiet-resume.pdf)
+- 👦 [Portfolio](https://karol-sygiet.ninja/)
 - 📄  [Resume](https://karol-sygiet.ninja/assets/files/karol-sygiet-resume.pdf)
 - 💼 [LinkedIn](https://www.linkedin.com/in/karol-sygiet-8232aa163/)
 
