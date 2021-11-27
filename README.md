@@ -1,16 +1,27 @@
-### Hi there 👋
+# <h1 align="center"> Hello there! I'm [Karol](https://karol-sygiet.ninja) :wave:</h1>
 
-<!--
-**skyman503/skyman503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a second-year student of Computer Science at the Jagiellonian University (Kraków, Poland). 
 
-Here are some ideas to get you started:
+- 💻  Main programming languages: Python, C++, JavaScript
+- 💡  I'm a member of the board and head of IT departpemnt at the  Computer Science Students Association KSI UJ
+- 👦 [Portfolio](https://karol-sygiet.ninja/assets/files/karol-sygiet-resume.pdf)
+- 📄  [Resume](https://karol-sygiet.ninja/assets/files/karol-sygiet-resume.pdf)
+- 💼 [LinkedIn](https://www.linkedin.com/in/karol-sygiet-8232aa163/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+## Contact with me:
+
+Email adress: <karolsygiet@gmail.com>
+
+---
+
+
+## Github stats:
+
+<div align="center"> 
+         
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyman503&hide=html,scss,css)](https://github.com/anuraghazra/github-readme-stats)
+         
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyman503&show_icons=true) </div>
