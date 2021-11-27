@@ -17,4 +17,4 @@
          
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyman503&hide=html,scss,css)](https://github.com/anuraghazra/github-readme-stats)
          
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyman503&show_icons=true) </div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=skyman503&show_icons=true) </div>
